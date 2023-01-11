@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j11OIulREcv3nSRyDXkSEzILRgw6PsYCNlamaMepmuuuvWT+7h7HY4SyUZ1DIp5JJTlz3NQ8qIkV7Y9hUua9OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shivamkushwaha\\source\\repos\\JenkinPipeline_ConsoleApp\\JenkinPipeline_ConsoleApp\\JenkinPipeline_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shivamkushwaha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
